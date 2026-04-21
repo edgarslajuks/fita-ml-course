@@ -27,7 +27,8 @@ No biznesa perspektīvas klientu noturēšana ir kritiska, jo jauna klienta pies
 ## 📈 Galvenie rezultāti
 
 - ~26.6% klientu pamet uzņēmumu
-- Model accuracy: ~78–82%
+- Sākotnējais modelis: accuracy ~82%
+- Balanced modelis: accuracy ~78%, recall churn klientiem ~79%
 - Modelis labi identificē stabilos klientus, bet churn klientu prognozēšana ir izaicinošāka
 
 ---
